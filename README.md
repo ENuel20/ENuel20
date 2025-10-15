@@ -21,6 +21,6 @@ I'm a **Solana Core Developer** building at the intersection of decentralized sy
 
 ### 📫 Let's Connect
 
-* **Twitter:** [@onanaroghene]([https://twitter.com/your_handle](https://x.com/Onanaroghene?t=sXcoZ7AlUjYwT0xmXX63Qg&s=09))
-* **LinkedIn:** Onanaroghene omokefe](https://www.linkedin.com/in/your-profile/)
+* **Twitter:** [@onanaroghene](https://x.com/Onanaroghene?t=sXcoZ7AlUjYwT0xmXX63Qg&s=09)
+* **LinkedIn:** Onanaroghene omokefe]
 * **Discord:** enuel21
