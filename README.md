@@ -1,6 +1,6 @@
 # Hi there, I'm Onana 👋
 
-I'm a **Solana Core Developer** building at the intersection of decentralized systems, finance, and intelligence. My passion is architecting robust, high-performance protocols that push the boundaries of what's possible on-chain.
+I'm a **Solana Core Developer** building at the intersection of decentralized systems, finance, and Airtificial intelligence. My passion is architecting robust, high-performance protocols that push the boundaries of what's possible on-chain.
 
 ---
 
