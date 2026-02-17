@@ -1,4 +1,4 @@
-### Onana // Solana Core Developer
+### Onana // Core Developer
 
 Building at the edge of possibility.
 
